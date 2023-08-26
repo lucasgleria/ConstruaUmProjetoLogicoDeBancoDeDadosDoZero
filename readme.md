@@ -1,7 +1,7 @@
 # Desafio de Projeto DIO
 ## Criando e Implementando um Projeto Lógico de Banco de Dados
 
-### Referente a [desafio-sql]([link](https://github.com/lucasgleria/ConstruaUmProjetoLogicoDeBancoDeDadosDoZero/tree/main/desafio-sql))
+### Referente a [desafio-sql](https://github.com/lucasgleria/ConstruaUmProjetoLogicoDeBancoDeDadosDoZero/tree/main/desafio-sql)
 <h4><b> Desafio proposto: </b></h4>
 Neste desafio, você irá utilizar seu esquema conceitual, criado no desafio do módulo de modelagem de BD com modelo ER, para criar o esquema lógico para o contexto de uma oficina. Você definirá todas as etapas. Desde o esquema até a implementação do banco de dados.
 
